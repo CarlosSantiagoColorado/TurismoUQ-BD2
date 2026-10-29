@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DDL_01_Corregido" id="3EBC141C-59A9-0472-733E-D00D912089B2" version="3.5">
+<createdBy>CARLOS</createdBy>
+<createdTime>2026-10-28 23:52:16 UTC</createdTime>
+<ownerDesignName>DDL_01_Corregido</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3EBC141C-59A9-0472-733E-D00D912089B2</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="6EBAC504-4B11-BB04-59DE-722958FDC921">
+<designStoragePath>C:\01_DDL</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
